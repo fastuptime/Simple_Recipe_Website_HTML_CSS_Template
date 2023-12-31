@@ -7,6 +7,23 @@ Simple Recipe Website HTML CSS Template - Made in 30 Minutes for University Fina
 ![image](https://github.com/fastuptime/Simple_Recipe_Website_HTML_CSS_Template/assets/63351166/2437825c-763b-4ee2-92ba-f6214a584089)
 ![image](https://github.com/fastuptime/Simple_Recipe_Website_HTML_CSS_Template/assets/63351166/169749dd-afce-4a80-acb2-64f57f483875)
 
+```
+📦final
+ ┣ 📂assets
+ ┃ ┣ 📂css
+ ┃ ┃ ┗ 📜style.css
+ ┃ ┣ 📂images
+ ┃ ┃ ┣ 📜kulah-kek.jpg
+ ┃ ┃ ┗ 📜logo.png
+ ┃ ┗ 📂js
+ ┃ ┃ ┗ 📜main.js
+ ┣ 📂pages
+ ┃ ┣ 📜gizlilik-politikasi.html
+ ┃ ┣ 📜hakkimizda.html
+ ┃ ┣ 📜iletisim.html
+ ┃ ┗ 📜yemek-tarifi.html
+ ┗ 📜index.html
+```
 
 ## ⛳Tech Stack ⛳
 
